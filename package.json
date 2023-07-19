@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "AuthAutomate",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Automates Logins to Company Software",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
